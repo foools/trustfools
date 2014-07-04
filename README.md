@@ -1,0 +1,4 @@
+trustfools
+==========
+
+fools
